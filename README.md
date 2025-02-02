@@ -4,5 +4,5 @@ This is a solution to the [Single-Page CV](https://roadmap.sh/projects/single-pa
 ## How to use
 Clone this repository and open index.html in a web browser to view.
 ```bash
-https://github.com/MalachyKitson/single-page-cv-template.git
+git clone https://github.com/MalachyKitson/single-page-cv-template.git
 ```
